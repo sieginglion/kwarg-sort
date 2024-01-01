@@ -1,7 +1,7 @@
 {
   "name": "kwarg-sort",
   "displayName": "kwarg-sort",
-  "description": "A VS Code extension that sorts kwargs in a selected Python function call",
+  "description": "Sorts kwargs in a selected Python function call",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"
@@ -33,5 +33,7 @@
     "mocha": "^10.2.0",
     "typescript": "^5.2.2",
     "@vscode/test-electron": "^2.3.6"
-  }
+  },
+  "publisher": "sieginglion",
+  "repository": "github:sieginglion/kwarg-sort"
 }
